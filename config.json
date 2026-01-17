@@ -1,0 +1,16 @@
+{
+  "swap": {
+    "minUsdc": 0.1,
+    "maxUsdc": 0.5,
+    "minEurc": 0.001,
+    "maxEurc": 0.005
+  },
+  "liquidity": {
+    "minUsdc": 0.0001,
+    "maxUsdc": 0.0003,
+    "minEurc": 0.0001,
+    "maxEurc": 0.0003
+  },
+  "threads": 1,
+  "loop_24h": true
+}
